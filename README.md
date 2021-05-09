@@ -1,3 +1,5 @@
+
+#EXTM3U
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/cartoons/schoque.jpg" group-title="Super Choque", E01 Super Choque
 http://kianumaka.lhmtv.gq/play/?list=2b94b4b5ea8e4d1f&LHMTv
 #EXTINF:-1 tvg-logo="http://stream.midiaconnect.tk/cartoons/schoque.jpg" group-title="Super Choque", E02 Super Choque
